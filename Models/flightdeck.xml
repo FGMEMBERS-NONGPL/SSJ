@@ -1,0 +1,27 @@
+<!-- TU-214
+
+-->
+
+<PropertyList>
+
+    <path>flightdeck.ac</path>
+
+      
+
+    <model>
+        <name>OHpanel</name>
+        <path>Aircraft/SSJ/Models/OHpanel.xml</path>
+        <offsets>
+            <x-m>-22.553</x-m>
+            <y-m>-0.007</y-m>
+            <z-m>0.97</z-m>
+            <pitch-deg>83</pitch-deg>
+        </offsets>
+    </model>
+
+  
+
+
+
+
+</PropertyList>
