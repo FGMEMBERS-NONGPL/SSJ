@@ -200,7 +200,7 @@
 
     <squeal1>
         <name>squeal</name>
-        <path>/Aircraft/SSJ/Sounds/touchdown.wav</path>
+        <path>Aircraft/SSJ/Sounds/touchdown.wav</path>
         <condition>
             <or>
                 <property>/gear/gear[0]/wow</property>
@@ -292,7 +292,7 @@
     <stall>
         <name>stall</name>
         <mode>looped</mode>
-        <path>/Aircraft/SSJ/Sounds/stall.wav</path>
+        <path>Aircraft/SSJ/Sounds/stall.wav</path>
         <condition>
             <property>sim/sound/stall-horn</property>
         </condition>
