@@ -571,7 +571,7 @@ refs 3
 kids 0
 OBJECT poly
 name "EFIS.screen"
-texture "/usr/share/games/FlightGear/Aircraft/SSJ/Models/Instruments/EICAS/gauges.png"
+texture "Aircraft/SSJ/Models/Instruments/EICAS/gauges.png"
 crease 30.000000
 numvert 4
 0.002183 0.10173 -0.10158

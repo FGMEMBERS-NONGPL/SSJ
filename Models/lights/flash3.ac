@@ -6,7 +6,7 @@ OBJECT poly
 name "Beacon02"
 data 8
 Mesh.864
-texture "/usr/share/games/FlightGear/Aircraft/777-200/Models/transparent.png"
+texture "Aircraft/777-200/Models/transparent.png"
 crease 30.000000
 numvert 4
 0.717 0.717 0
@@ -50,7 +50,7 @@ OBJECT poly
 name "Strobe01"
 data 8
 Mesh.915
-texture "/usr/share/games/FlightGear/Aircraft/777-200/Models/transparent.png"
+texture "Aircraft/777-200/Models/transparent.png"
 crease 30.000000
 numvert 4
 0.819429 0.819429 0
@@ -70,7 +70,7 @@ OBJECT poly
 name "Strobe02"
 data 8
 Mesh.916
-texture "/usr/share/games/FlightGear/Aircraft/777-200/Models/transparent.png"
+texture "Aircraft/777-200/Models/transparent.png"
 crease 30.000000
 numvert 4
 0.819429 0.819429 0
@@ -90,7 +90,7 @@ OBJECT poly
 name "Strobe03"
 data 8
 Mesh.917
-texture "/usr/share/games/FlightGear/Aircraft/777-200/Models/transparent.png"
+texture "Aircraft/777-200/Models/transparent.png"
 crease 30.000000
 numvert 4
 0.819429 0.819429 0
@@ -110,7 +110,7 @@ OBJECT poly
 name "greenflash"
 data 8
 Mesh.921
-texture "/usr/share/games/FlightGear/Aircraft/777-200/Models/transparent.png"
+texture "Aircraft/777-200/Models/transparent.png"
 crease 30.000000
 numvert 4
 0.737486 0.737486 0
@@ -130,7 +130,7 @@ OBJECT poly
 name "redflash"
 data 8
 Mesh.926
-texture "/usr/share/games/FlightGear/Aircraft/777-200/Models/transparent.png"
+texture "Aircraft/777-200/Models/transparent.png"
 crease 30.000000
 numvert 4
 0.717 0.717 0
@@ -150,7 +150,7 @@ OBJECT poly
 name "whiteflash"
 data 8
 Mesh.930
-texture "/usr/share/games/FlightGear/Aircraft/777-200/Models/transparent.png"
+texture "Aircraft/777-200/Models/transparent.png"
 crease 30.000000
 numvert 4
 0.512143 0.512143 0
